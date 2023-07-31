@@ -57,7 +57,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      image: 'icons/android-chrome-512x512.png',
       navbar: {
         title: 'AI-ON',
         logo: {
@@ -95,7 +95,7 @@ const config = {
             items: [
               {
                 label: 'AI-ON Docs',
-                to: '/docs/intro',
+                to: '/',
               },
             ],
           },
