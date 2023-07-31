@@ -8,7 +8,7 @@ To use the AI-ON UI library in your project, follow these steps:
 
 ## Step 1: Install the Package
 
-You can install the AI-ON UI library using either npm, yarn or CDN. Please, refer to the [Installation](/docs/AION%20UI/instalation) section for more details.
+You can install the AI-ON UI library using either npm, yarn or CDN. Please, refer to the [Installation](/AION%20UI/instalation) section for more details.
 
 ## Step 2: Import the Module
 After installing the package, import the necessary modules in your script file:
