@@ -103,6 +103,10 @@ const config = {
             title: 'Community',
             items: [
               {
+                label: 'NPM',
+                href: 'https://www.npmjs.com/package/@ai-on/ui',
+              },
+              {
                 label: 'Stack Overflow',
                 href: 'https://stackoverflow.com/questions/tagged/docusaurus',
               },
